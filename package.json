@@ -1,0 +1,47 @@
+{
+  "name": "react-solidity-web3-v2",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Logeswaran A(Goplugin)"
+  },
+  "description": "It is a boilerplate, which assist developer to just use the function and integrate their contracts at ease",
+  "dependencies": {
+    "@toruslabs/torus-embed": "^1.22.2",
+    "@walletconnect/web3-provider": "^1.7.7",
+    "defender-relay-client": "1.18.0",
+    "eth-sig-util": "^3.0.1",
+    "ethers": "^5.0.30",
+    "fortmatic": "^2.2.1",
+    "ipfs-http-client": "^56.0.2",
+    "lodash": "^4.17.20",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.2",
+    "react-toastify": "^7.0.3",
+    "redis": "^4.1.0",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.7.3",
+    "web3modal": "^1.9.6",
+    "xdcpay-web3modal": "^1.0.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "keywords": [
+    "goplugin",
+    "boiler-plate",
+    "react-solidity",
+    "decentralized Oracle",
+    "Wallet Connect"
+  ]
+}
