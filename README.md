@@ -1,17 +1,17 @@
-# react-solidity-web3 Npm Package
+# react-solidity-xdc3 Npm Package
 It works like a boilerplate package, which assist developer to just use the function and integrate their contracts at ease.
 
 ## 1 Installation
-Install react-solidity-web3 with npm
+Install react-solidity-xdc3 with npm
 ```bash
-  npm install react-solidity-web3
+  npm install react-solidity-xdc3
 ```
 ## 2 IMPLEMENTATION SAMPLE
 - Go to https://github.com/GoPlugin/dapp-react-solidity-xdc3
 
 ## 3 How it works?
 ```
-const { connectWallet,createWeb3Provider,createContractInstance, executeTransaction,queryData, queryEvents } = require('react-solidity-web3');
+const { connectWallet,createWeb3Provider,createContractInstance, executeTransaction,queryData, queryEvents } = require('react-solidity-xdc3');
 
 var connectOptions = {
   rpcObj: {
